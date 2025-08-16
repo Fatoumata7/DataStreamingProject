@@ -97,4 +97,4 @@ User -> [Python App] -> Kafka Topic (transactions) -> [Spark/Scala App] -> Kafka
 - Pénélope MILLET
 - Fatoumata WADIOU
 
----
+---# DataStreamingProject
